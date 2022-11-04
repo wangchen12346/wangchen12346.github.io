@@ -1,5 +1,5 @@
 ---
-title: Post with Header Image
+title: python-def
 tags: TeXt
 article_header:
   type: cover
